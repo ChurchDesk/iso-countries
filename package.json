@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "colors": "0.5.x",
-    "commander": "",
-    "request": "*",
+    "commander": "^2.9.0",
+    "request": "^2.61.0",
     "underscore": "1.x.x",
-    "uglify-js": "",
-    "js-yaml": "",
+    "uglify-js": "^2.7.0",
+    "js-yaml": "^3.6.1",
     "should": "~2.1.0"
   },
   "devDependencies": {
